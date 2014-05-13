@@ -22,4 +22,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += BUILD_FINGERPRINT=lge/g2_open_com/g2:4.2.2/JDQ39
 
 # bootanimation
 PRODUCT_COPY_FILES += \
-        vendor/illusion/bootanimation/Illusion768x768.zip:system/media/bootanimation.zip
+        vendor/illusion/bootanimation/1080x1920.zip:system/media/bootanimation.zip
